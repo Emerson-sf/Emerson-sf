@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Emerson 👋
 
-<!--
-**Emerson-sf/Emerson-sf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student from Brazil, currently building my career in software development with a focus on **Java Backend**.
 
-Here are some ideas to get you started:
+## 👨‍💻 Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Object-Oriented Programming
+- Git & GitHub
+
+## 🎯 My goal
+
+I'm building a solid foundation in Java and software development before moving on to backend technologies such as databases, Spring Boot, and REST APIs.
+
+I use this GitHub to document my learning journey, practice programming concepts, and track my progress toward becoming a Backend Java Developer.
+
+## 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/emerson-freire-da-silva-filho-5ab641274)
